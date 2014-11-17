@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  mimeType: MyString
+  params: MyText
+  text: MyText
+  comment: MyText
+  request_id: 
+  params_id: 
+
+two:
+  mimeType: MyString
+  params: MyText
+  text: MyText
+  comment: MyText
+  request_id: 
+  params_id: 

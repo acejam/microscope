@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  size: 1
+  compression: 1
+  mimeType: MyString
+  text: MyText
+  comment: MyText
+
+two:
+  size: 1
+  compression: 1
+  mimeType: MyString
+  text: MyText
+  comment: MyText

@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  value: MyString
+  fileName: MyString
+  contentType: MyString
+  comment: MyText
+  postData_id: 
+
+two:
+  name: MyString
+  value: MyString
+  fileName: MyString
+  contentType: MyString
+  comment: MyText
+  postData_id: 

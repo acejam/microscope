@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  beforeRequest: MyText
+  afterRequest: MyText
+  comment: MyText
+
+two:
+  beforeRequest: MyText
+  afterRequest: MyText
+  comment: MyText

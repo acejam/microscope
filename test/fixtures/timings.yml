@@ -1,0 +1,21 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  blocked: 1
+  dns: 1
+  connect: 1
+  send: 1
+  wait: 1
+  receive: 1
+  ssl: 1
+  comment: MyText
+
+two:
+  blocked: 1
+  dns: 1
+  connect: 1
+  send: 1
+  wait: 1
+  receive: 1
+  ssl: 1
+  comment: MyText

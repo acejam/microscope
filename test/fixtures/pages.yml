@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  startedDateTime: 2014-11-17 16:03:21
+  id: MyString
+  title: MyString
+  pageTimings_id: 
+  comment: MyText
+
+two:
+  startedDateTime: 2014-11-17 16:03:21
+  id: MyString
+  title: MyString
+  pageTimings_id: 
+  comment: MyText

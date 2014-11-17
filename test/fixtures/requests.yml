@@ -1,0 +1,25 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  method: MyString
+  url: MyString
+  httpVersion: MyString
+  cookies_id: 
+  headers_id: 
+  queryString_id: 
+  postData_id: 
+  headersSize: 1
+  bodySize: 1
+  comment: MyText
+
+two:
+  method: MyString
+  url: MyString
+  httpVersion: MyString
+  cookies_id: 
+  headers_id: 
+  queryString_id: 
+  postData_id: 
+  headersSize: 1
+  bodySize: 1
+  comment: MyText
